@@ -21,14 +21,16 @@ namespace BlissRecruitmentApp
     {
         int actualPage;
         int questionId;
+        string filterText;
 
-        public Form3(int questionId, int pageNumber)
+        public Form3(int questionId, int pageNumber, string filter)
         {
             InitializeComponent();
             label4.Hide();
             this.getQuestionDetails(questionId);
-            actualPage = pageNumber;
+            this.actualPage = pageNumber;
             this.questionId = questionId;
+            this.filterText = filter;
         }
 
         private void getQuestionDetails(int questionId)
@@ -77,7 +79,7 @@ namespace BlissRecruitmentApp
             label1.Text = dict["question"];
             label2.Text += dict["id"];
             string publishedDate = dict["published_at"];
-
+           
             string[] words = publishedDate.Split('T');
             string date1 = words[0];
             string date2 = words[1].Split('.')[0];
@@ -118,7 +120,7 @@ namespace BlissRecruitmentApp
         }
 
         private void Radio_CheckedChanged(object sender, EventArgs e)
-        {
+        { //Vote
             RadioButton r = (RadioButton) sender;
             var newLines = new Regex(@"\r\n|\n|\r", RegexOptions.Singleline);
             var choice = newLines.Split(r.Text);
@@ -134,9 +136,9 @@ namespace BlissRecruitmentApp
         
 
         private void button1_Click(object sender, EventArgs e)
-        {
+        { //Back to List Screen
             this.Hide();
-            Form2 listScreen = new Form2(actualPage);
+            Form2 listScreen = new Form2(this.actualPage, this.filterText);
             listScreen.Show();
         }
         
@@ -157,7 +159,7 @@ namespace BlissRecruitmentApp
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
+        { //Share Click
             if(textBox1.Text == "")
             {
                 MessageBox.Show("Write your e-mail to Share",

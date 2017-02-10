@@ -16,7 +16,7 @@ namespace BlissRecruitmentApp
         [STAThread]
         static void Main()
         {
-            ThreadPool.QueueUserWorkItem(Thread);
+            ThreadPool.QueueUserWorkItem(ThreadF);//Run Thread to look to connection status
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
@@ -41,21 +41,19 @@ namespace BlissRecruitmentApp
             }
         }
 
-        static void Thread(Object stateInfo)
+        static void ThreadF(Object stateInfo)
         {
             while (1 == 1) {
-
-                bool connection = CheckForInternetConnection();
                 
-                if (connection)
-                {
+                while (!CheckForInternetConnection())
+                {//Show Dialog while connection is lost
                     DialogResult dr = MessageBox.Show("Reconnect?",
                     "Connection Lost",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Exclamation,
                     MessageBoxDefaultButton.Button1);
-
                 }
+                Thread.Sleep(1500);
             }
         }
     }

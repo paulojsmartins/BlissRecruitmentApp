@@ -45,7 +45,7 @@ namespace BlissRecruitmentApp
             var dict = jss.Deserialize<Dictionary<string, string>>(text);
 
             if (dict["status"] != "OK")
-            {
+            {//Show Dialog to Retry connection
                 DialogResult result1 = MessageBox.Show("Reconnect?",
                 "Error Connecting to Bliss Recruitment App",
                 MessageBoxButtons.YesNo);
@@ -56,8 +56,8 @@ namespace BlissRecruitmentApp
                 }
             }
             else
-            {
-                Form2 listScreen = new Form2(1);
+            { //Health is "OK" 
+                Form2 listScreen = new Form2(1, "");
                 listScreen.Show();
                 this.Hide();
             }
