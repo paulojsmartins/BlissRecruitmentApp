@@ -36,9 +36,11 @@ namespace BlissRecruitmentApp
                 url = @"https://private-anon-d7d42d7c8b-blissrecruitmentapi.apiary-mock.com/questions?10&" + offset;
             } else
             {
-                textBox1.Text = filter;
-                label2.Text += filter + "'";
-                label2.Show();
+                if (!label2.Visible) { 
+                    textBox1.Text = filter;
+                    label2.Text += filter + "'";
+                    label2.Show();
+                }
                 url = @"https://private-anon-d7d42d7c8b-blissrecruitmentapi.apiary-mock.com/questions?10&" + offset + '&' + filter;
             }
 

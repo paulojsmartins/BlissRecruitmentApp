@@ -1,15 +1,29 @@
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.exe.config
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.exe
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.pdb
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.dll
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.exe.config
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.exe
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.pdb
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.dll
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.pdb
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.xml
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csproj.App.config
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csprojResolveAssemblyReference.cache
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form1.resources
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form2.resources
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form3.resources
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Properties.Resources.resources
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csproj.GenerateResource.Cache
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.exe
+C:\Users\Tontinha\My Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.pdb
+C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.exe.config
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Extensions.dll
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Primitives.dll
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.pdb
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\Flurl.xml
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csproj.App.config
-C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csprojResolveAssemblyReference.cache
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form1.resources
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form2.resources
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.Form3.resources
@@ -17,3 +31,4 @@ C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\Blis
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.csproj.GenerateResource.Cache
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.exe
 C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\obj\Debug\BlissRecruitmentApp.pdb
+C:\Users\Tontinha\Documents\Visual Studio 2015\Projects\BlissRecruitmentApp\BlissRecruitmentApp\bin\Debug\BlissRecruitmentApp.pdb
